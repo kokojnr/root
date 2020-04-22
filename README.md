@@ -1,0 +1,2 @@
+# root
+First AI project 
